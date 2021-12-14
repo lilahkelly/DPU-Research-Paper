@@ -1,0 +1,2 @@
+# DPU-Research-Paper
+This paper looks into a Q100 DPU chip in the context of a digital design course. This course is a 300 level course, so the paper was written under the assumption that the reader recognizes the terminology presented. New terminology is defined in a clear way. This paper demonstrates my ability to research and comphrehend a high level paper and relate it to fellow classmates at the same level of understanding of Computer Engineering.  
